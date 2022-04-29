@@ -1,0 +1,100 @@
+.add {
+    width: 100%;
+    background-color: red;
+    height: auto;
+    color: blue;
+}
+p {
+    font-weight: lighter;
+    font-size: 20px;
+}
+#one {
+    margin-left: 24%;
+    margin-right: 24%;
+    text-align: left;
+    /* font-size: 25px; */
+}
+body{
+    /* background-color:; */
+    background-image: linear-gradient( 115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) ),
+    url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+    /* font-size: 1rem; */
+}
+h{
+    font-size: 18px;
+}
+
+.cent {
+    text-align: left;
+    width: 100%;
+    height: 42px;
+    border-radius: 3px;
+    border: 1px solid;
+}
+.centradio {
+    height: 25px;
+    width: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.centcheck {
+    height: 25px;
+    width: 25px;
+}
+form {
+    background-color: rgb(18, 18, 36);
+    opacity: 0.7;
+    padding: 40px;
+    border-radius: 8px;
+    color: white;
+}
+#head {
+    text-align: center;
+    color: white;
+}
+#head p {
+    background-color: none;
+    margin-top: 0px;
+    font-style: italic;
+    font-size: 1.125rem;
+}
+#title {
+    font-size: 33px;
+    background-color: none;
+    margin-top: 40px;
+}
+textarea {
+    height: 120px;
+    width: 100%;
+}
+#submit {
+    width: 100%;
+    height: 42px;
+    text-align: center;
+    margin-top: 33px;
+    margin-bottom: 40px;
+    border-radius: 3px;
+    border: none;
+    background-color: rgb(55,175,101);
+}
+label {
+    /* background-color: green; */
+    display: flex;
+align-items: center;
+font-size: 1.125rem;
+margin-top: 10px;
+}
+#text {
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+/* #labelbox {
+    margin-bottom: -20px;
+} */
